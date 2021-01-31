@@ -1,6 +1,11 @@
 ### Hello, and welcome to my profile. 👋
 
-<img align="middle="squeeny's GitHub Stats" src="https://github-readme-stats-git-master.squeeny.vercel.app/api?username=squeeny&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="squeeny's GitHub Stats" src="https://github-readme-stats.squeeny.vercel.app/api?username=squeeny&show_icons=true&hide_border=true" />
+
+</details>
 
 ## I make mods for the game [Slay the Spire][spire]!
 
