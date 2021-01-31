@@ -3,7 +3,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="squeeny's GitHub Stats" src="https://github-readme-stats.squeeny.vercel.app/api?username=squeeny&show_icons=true&hide_border=true" />
+  <img align="middle" alt="squeeny's GitHub Stats" src="https://github-readme-stats.squeeny.vercel.app/api?username=squeeny&show_icons=true&hide_border=true" />
 
 </details>
 
