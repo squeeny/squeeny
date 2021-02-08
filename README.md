@@ -12,7 +12,7 @@
 Mods I've collaborated on:
 
 - Gensokyo ([Workshop][gensokyoWorkshop], [Repository][gensokyoRepo])
-- Spire Aracde ([Workshop][arcadeWorkshop], [Repository][arcadeRepo])
+- Spire Arcade ([Workshop][arcadeWorkshop], [Repository][arcadeRepo])
 - The Warlord ([Repository][warlordRepo])
 - The Renegade ([Repository][renegadeRepo])
 
