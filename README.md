@@ -29,6 +29,7 @@ Mods I've made:
 Mods I'm making:
 
 - ZONE ([Repository][zoneRepo])
+- Hades ([Repository][hadesRepo])
 
 ## The mod maintainability project!
 
@@ -73,5 +74,6 @@ I look foward to working with you!
 [morshuWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2377131075
 
 [zoneRepo]: https://github.com/squeeny/ZONE
+[hadesRepo]: https://github.com/squeeny/Hades
 
 [hololiveWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2365818358
