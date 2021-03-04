@@ -12,6 +12,7 @@
 Mods I've collaborated on:
 
 - Gensokyo ([Workshop][gensokyoWorkshop], [Repository][gensokyoRepo])
+- Ruina ([Workshop][ruinaWorkshop])
 - Spire Arcade ([Workshop][arcadeWorkshop], [Repository][arcadeRepo])
 - The Warlord ([Repository][warlordRepo])
 - The Renegade ([Repository][renegadeRepo])
@@ -21,7 +22,7 @@ Mods I've collaborated on:
 Mods I've made:
 
 - The Immortal ([Workshop][mokouWorkshop], [Repository][mokouRepo])
-- Shameimaru ([Repository][ayaRepo])
+- Shameimaru ([Workshop][ayaWorkshop], [Repository][ayaRepo])
 - Poem Panic ([Workshop][poemWorkshop], [Repository][poemRepo])
 - Ascension Unlocker ([Workshop][unlockerWorkshop], [Repository][unlockerRepo])
 - Morshu Shopkeeper ([Workshop][morshuWorkshop], [Repository][morshuRepo])
@@ -63,6 +64,7 @@ I look foward to working with you!
 [mokouWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2128916759
 
 [ayaRepo]: https://github.com/squeeny/Shameimaru
+[ayaWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2407446370
 
 [poemRepo]: https://github.com/squeeny/PoemPanic
 [poemWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2350128329
@@ -77,3 +79,4 @@ I look foward to working with you!
 [hadesRepo]: https://github.com/squeeny/Hades
 
 [hololiveWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2365818358
+[ruinaWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2396661789
