@@ -23,6 +23,7 @@ Mods I've made:
 
 - The Immortal ([Workshop][mokouWorkshop], [Repository][mokouRepo])
 - Shameimaru ([Workshop][ayaWorkshop], [Repository][ayaRepo])
+- Prismriver ([Workshop][prismriverWorkshop], [Repositpry][prismriveRepo])
 - Poem Panic ([Workshop][poemWorkshop], [Repository][poemRepo])
 - Ascension Unlocker ([Workshop][unlockerWorkshop], [Repository][unlockerRepo])
 - Morshu Shopkeeper ([Workshop][morshuWorkshop], [Repository][morshuRepo])
@@ -65,6 +66,9 @@ I look foward to working with you!
 
 [ayaRepo]: https://github.com/squeeny/Shameimaru
 [ayaWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2407446370
+
+[prismriverRepo]: https://github.com/squeeny/Prismriver
+[prismriverWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2430746771
 
 [poemRepo]: https://github.com/squeeny/PoemPanic
 [poemWorkshop]: https://steamcommunity.com/sharedfiles/filedetails/?id=2350128329
